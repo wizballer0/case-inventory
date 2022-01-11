@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{AE96209C-7C62-45A1-ABDB-4379E9821CAA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InventoryTests/InventoryTests.cs">
+    <Files>
+      <File FileName="case-inventory/Program.cs" Line="78" Column="1" />
+      <File FileName="case-inventory/Inventory.cs" Line="12" Column="1" />
+      <File FileName="case-inventory/IInventory.cs" Line="9" Column="3" />
+      <File FileName="InventoryTests/InventoryTests.cs" Line="18" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="case-inventory" expanded="True">
+            <Node name="case-inventory" expanded="True" />
+            <Node name="InventoryTests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="InventoryTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="case-inventory" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.case-inventory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>

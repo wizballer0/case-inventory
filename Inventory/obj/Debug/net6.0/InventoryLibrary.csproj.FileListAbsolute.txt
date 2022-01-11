@@ -1,0 +1,11 @@
+/Users/jonasnystrom/Projects/case-inventory/Inventory/bin/Debug/net6.0/InventoryLibrary.deps.json
+/Users/jonasnystrom/Projects/case-inventory/Inventory/bin/Debug/net6.0/InventoryLibrary.dll
+/Users/jonasnystrom/Projects/case-inventory/Inventory/bin/Debug/net6.0/ref/InventoryLibrary.dll
+/Users/jonasnystrom/Projects/case-inventory/Inventory/bin/Debug/net6.0/InventoryLibrary.pdb
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.AssemblyInfoInputs.cache
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.AssemblyInfo.cs
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.csproj.CoreCompileInputs.cache
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.dll
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/ref/InventoryLibrary.dll
+/Users/jonasnystrom/Projects/case-inventory/Inventory/obj/Debug/net6.0/InventoryLibrary.pdb
