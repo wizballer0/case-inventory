@@ -17,6 +17,7 @@ namespace case_inventory
         public (char, int) ParseInput(string input)
         {
             input = input.Trim();
+            // Read first non white-space character as action if there is one
             char action = input.Length > 0 ? input.ToCharArray().ElementAt(0) : UNKNOWN_ACTION;
 
             switch (action)
@@ -44,36 +45,34 @@ namespace case_inventory
 
         public string HandleInventory(IInventory inventory, char action, int quantity)
         {
-            if (action == DECREASE)
-            {
-                try
-                {
-                    inventory.Decrease(quantity);
-                    return("Sold " + quantity + " from inventory");
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                }
-            }
-            else if (action == INCREASE)
-            {
-                try
-                {
-                    inventory.Increase(quantity);
-                    return("Added " + quantity + " to inventory");
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine(e.Message);
-                }
-            }
-            else if (action == GET)
-            {
-                return("Inventory is " + inventory.Get());
-            }
 
-            return ("Unknown action");
+            switch(action)
+            {
+                case DECREASE:
+                    try
+                    {
+                        inventory.Decrease(quantity);
+                        return ("Sold " + quantity + " items from inventory.");
+                    }
+                    catch (Exception e)
+                    {
+                        return (e.Message);
+                    }
+                case INCREASE:
+                    try
+                    {
+                        inventory.Increase(quantity);
+                        return ("Added " + quantity + " items to inventory.");
+                    }
+                    catch (Exception e)
+                    {
+                        return (e.Message);
+                    }
+                case GET:
+                    return ("There are " + inventory.Get() + " items in the inventory.");
+                default:
+                    return ("Unknown action.");
+            }
         }
     }
 }

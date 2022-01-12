@@ -11,6 +11,11 @@ namespace case_inventory
             IInventory inventory = new Inventory();
             InputHandler inputHandler = new InputHandler();
 
+            Console.WriteLine
+                ("Welcome to this simluated inventory application. " +
+                "Use commands IX(to increase inventory with X), " +
+                "SX(to decrease inventory with X) and L to show inventory status.");
+
             Console.WriteLine("Enter action:");
 
             while (true)

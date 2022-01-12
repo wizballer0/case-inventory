@@ -95,6 +95,7 @@
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/bin/Debug/net6.0/case-inventory.dll
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/bin/Debug/net6.0/BusinessLayer.pdb
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/bin/Debug/net6.0/case-inventory.pdb
+/Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/obj/Debug/net6.0/InputHandlerTests.csproj.AssemblyReference.cache
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/obj/Debug/net6.0/InputHandlerTests.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/obj/Debug/net6.0/InputHandlerTests.AssemblyInfoInputs.cache
 /Users/jonasnystrom/Projects/case-inventory/CaseInventoryTests/obj/Debug/net6.0/InputHandlerTests.AssemblyInfo.cs
