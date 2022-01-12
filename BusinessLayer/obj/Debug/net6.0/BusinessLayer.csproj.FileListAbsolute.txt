@@ -2,7 +2,6 @@
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/bin/Debug/net6.0/BusinessLayer.dll
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/bin/Debug/net6.0/ref/BusinessLayer.dll
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/bin/Debug/net6.0/BusinessLayer.pdb
-/Users/jonasnystrom/Projects/case-inventory/BusinessLayer/obj/Debug/net6.0/BusinessLayer.csproj.AssemblyReference.cache
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/obj/Debug/net6.0/BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfoInputs.cache
 /Users/jonasnystrom/Projects/case-inventory/BusinessLayer/obj/Debug/net6.0/BusinessLayer.AssemblyInfo.cs

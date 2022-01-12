@@ -15,7 +15,7 @@ namespace case_inventory
 
             while (true)
             {
-                (char action, int quantity) = inputHandler.ParseInput(Console.ReadLine().Trim());
+                (char action, int quantity) = inputHandler.ParseInput(Console.ReadLine());
 
                 string message = inputHandler.HandleInventory(inventory, action, quantity);
                 Console.WriteLine(message);

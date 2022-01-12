@@ -16,6 +16,7 @@ namespace case_inventory
 
         public (char, int) ParseInput(string input)
         {
+            input = input.Trim();
             char action = input.Length > 0 ? input.ToCharArray().ElementAt(0) : UNKNOWN_ACTION;
 
             switch (action)
